@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 8px;
+    padding: 0px;
+    background-color: rgb(119, 119, 119);
+    font-size: 100%;
+    display: block;
+}
+
+html{
+   color: rgb(0, 0, 0);
+   font-family: Arial;
+}
+
+li{
+    font-size: 150%
+}
+
+#mainHeading{
+    color: red;
+    font-size: 50%;
+}
+
+.funParagraph{
+    color: green;
+    font-size: 50%;
+}
